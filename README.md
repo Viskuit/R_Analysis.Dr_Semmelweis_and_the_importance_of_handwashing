@@ -1,4 +1,4 @@
-# Dr Semmelweis and the importance of handwashing
+# Dr. Semmelweis and the importance of handwashing
 
 ![Dr. Semmelweis](./images/Dr_Semmelweis.jpeg))
 
